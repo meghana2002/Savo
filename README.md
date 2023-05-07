@@ -52,6 +52,5 @@ SAVO stands out from other platforms as it suggests courses after a detailed ana
 
 <br />
 
-[twitter]: https://twitter.com/paritos72141492
-[instagram]: https://www.instagram.com/w2_datascience/?hl=en
-[linkedin]: https://www.linkedin.com/in/paritosh-tripathi-b83aa91bb/
+
+[linkedin]: http://linkedin.com/in/meghana-penmetsa-3903071b4
